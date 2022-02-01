@@ -1,4 +1,22 @@
-### Hi there! Olá! Ciao! 👋
+### Oi! Hello! Ciao! 👋
+
+#### [pt-br]
+
+Meu nome é Arthur Paulucci Carnieto, prazer!
+
+Sou um nerd em tecnologia de coração e amo aprender novas linguagens (tanto as de computador como as humanas) e novas culturas. Eu amo criar novas conexões, conhecer novas pessoas e discutir sobre códigos e tecnologias. Se tem uma coisa que aprendi nos últimos anos é que é simplesmente impossível ser especialista em tudo, e por isso considero tão importante para mim valorizar as pessoas ao meu redor e não ter medo de pedir ajuda.
+
+Aprender nem sempre é um caminho fácil, na verdade é geralmente difícil, cheio de obstáculos e estressante! Por isso acredito ser importante exercitar a paz interior e tomar cuidado da saúde mental para lidar com os problemas e ser mais produtivo.
+
+Se estiver curioso(a) sobre qualquer coisa, seja relacionado a TI ou não, por favor sinta-se livre para entrar em contato comigo! Sou amigável e fácil de entrar em contato.
+
+- 😄 Pronomes: ele/dele.
+- 🔭 Estou atualmente trabalhando como suporte técnico em TI na MGR e procurando por novas oportunidades.
+- 🌱 Estou atualmente aprendendo a programar para Android usando Kotlin e estudando italiano.
+- 📫 Venha me conhecer no [LinkedIn](https://www.linkedin.com/in/arthur-carnieto/). O LinkedIn é minha atual ferramenta de comunicação profissional, por favor sinta-se livre em verificar meu perfil, se conectar comigo ou me enviar uma mensagem!
+- 💬 Me pergunte sobre... Qualquer coisa, sério!
+
+#### [en]
 
 My name is Arthur Paulucci Carnieto, nice to meet you!
 
@@ -8,22 +26,8 @@ Learning is not always a smooth ride, in fact it is mostly rough, full of obstac
 
 If you are curious about anything, being it code or not, please feel free to get in contact with me! I'm very approachable and friendly.
 
-- 🔭 I’m currently working on a CakePHP project. (It's in a private repository, you can DM me to ask to see it. There are high chances I'll change it to a public repo in the future!)
-- 🌱 I’m currently learning Rails framework and Italian.
+- 😄 Pronouns: he/him.
+- 🔭 I’m currently working as an IT Technical Support in MGR and looking for new opportunities.
+- 🌱 I’m currently learning programming in Android using Kotlin and Italian.
 - 📫 Get to know me on [LinkedIn](https://www.linkedin.com/in/arthur-carnieto/). My favorite way of professional communication, please feel free to check my profile, connect with me or send me a message!
-- 💬 Ask me about... anything, really!
-
-<!--
-**art-carnieto/art-carnieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about... Anything, really!
