@@ -29,7 +29,7 @@ If you are curious about anything, being it code or not, please feel free to get
 - 😄 Pronouns: he/him.
 - 🔭 I’m currently working as an IT Technical Support in MGR and looking for new opportunities.
 - 🌱 I’m currently learning programming in Android using Kotlin and Italian.
-- 📫 Get to know me on [LinkedIn](https://www.linkedin.com/in/arthur-carnieto/). My favorite way of professional communication, please feel free to check my profile, connect with me or send me a message!
+- 📫 Get to know me on [LinkedIn](https://www.linkedin.com/in/arthur-carnieto/). It is my favorite way of professional communication, please feel free to check my profile, connect with me or send me a message!
 - 💬 Ask me about... Anything, really!
 
 #### [it]
